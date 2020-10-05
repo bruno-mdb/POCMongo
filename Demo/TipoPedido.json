@@ -1,0 +1,22 @@
+{
+id : 12345,
+AspUserInsertId : 123,
+Nome : "Nome do Tipo Pedido",
+Descricao : "Descricao do Tipo Pedido",
+Grupo : 1234,
+RevendaNaoRevenda : yes,
+EntradaSaida : 2,
+TipoPedido : ['EmiteNF','PortalLoja'],
+TipoPedidoRegra: {
+    TipoPedido : "PortalFornecedor"
+    Inauguracao: 1,
+    TipoDia : 4,
+    Dias : 'Seg-Sex,
+    Hora : "8:00".
+    Aprovacao : 1,
+    QuantidadeMaximaPedidoJanela : 50,
+    ExibeCustoUnitario : yes,
+    CentroId : 789 
+    }
+FonteSuprimentoId : 456
+}
